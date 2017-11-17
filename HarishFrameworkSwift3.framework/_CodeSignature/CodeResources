@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/HarishFrameworkSwift3-Swift.h</key>
 		<data>
-		8lmstHEGzjg8UMY1HPgrsFaeUqE=
+		NGDbc8UMyLPXwtzsHbTMPf0zekY=
 		</data>
 		<key>Headers/HarishFrameworkSwift3.h</key>
 		<data>
@@ -16,21 +16,13 @@
 		<data>
 		Gbxuthw4O2eTh5BVA2RJt/YhJKM=
 		</data>
-		<key>Modules/HarishFrameworkSwift3.swiftmodule/i386.swiftdoc</key>
-		<data>
-		IZ3kSe8JEsyyMl7K2b32s4erIlA=
-		</data>
-		<key>Modules/HarishFrameworkSwift3.swiftmodule/i386.swiftmodule</key>
-		<data>
-		iuoVOJQ2thQvFiXPlAVTBbotVyI=
-		</data>
 		<key>Modules/HarishFrameworkSwift3.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		QRNCRgYXPj86fs17pPfoq0vuXH4=
+		wONJTDGCwoJj1uSKf/ix+RXdLzE=
 		</data>
 		<key>Modules/HarishFrameworkSwift3.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		szwQpiKQ+phHrogha3OFhULRjhs=
+		H/FcToJzu97oTwrzmLeOsHdg2jE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,11 +39,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8lmstHEGzjg8UMY1HPgrsFaeUqE=
+			NGDbc8UMyLPXwtzsHbTMPf0zekY=
 			</data>
 			<key>hash2</key>
 			<data>
-			lYvcixfH5XKmyspy9rDlIsBc0g8jJM9nEYLceu0NDSE=
+			RFiIZo7bNKDpIKxTrHLGKUECduqg+r4HLXoH0r7VN9Q=
 			</data>
 		</dict>
 		<key>Headers/HarishFrameworkSwift3.h</key>
@@ -65,48 +57,26 @@
 			/qcMhvn/XhX482q9T4+5IQYiktudVjzmnujRVxv9dVc=
 			</data>
 		</dict>
-		<key>Modules/HarishFrameworkSwift3.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IZ3kSe8JEsyyMl7K2b32s4erIlA=
-			</data>
-			<key>hash2</key>
-			<data>
-			VQZKhMMLoBWZV9O4ij/NYKWNUOvLIk5Jb1HF4oubr+o=
-			</data>
-		</dict>
-		<key>Modules/HarishFrameworkSwift3.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iuoVOJQ2thQvFiXPlAVTBbotVyI=
-			</data>
-			<key>hash2</key>
-			<data>
-			IwK/amC34vpWGLzUcISRRramCtQXgDLQqE9ekfvIVbc=
-			</data>
-		</dict>
 		<key>Modules/HarishFrameworkSwift3.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QRNCRgYXPj86fs17pPfoq0vuXH4=
+			wONJTDGCwoJj1uSKf/ix+RXdLzE=
 			</data>
 			<key>hash2</key>
 			<data>
-			WVy2RcJ/f0KWOsBigH0M2cM9AinNcxigHHYdnL/66wA=
+			5XtOLjrJa1t9UwPkKo1RZTTKIUl6TRCpedq/WJAi1rw=
 			</data>
 		</dict>
 		<key>Modules/HarishFrameworkSwift3.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			szwQpiKQ+phHrogha3OFhULRjhs=
+			H/FcToJzu97oTwrzmLeOsHdg2jE=
 			</data>
 			<key>hash2</key>
 			<data>
-			poe97UTlCCZwMlN3jNFvhEnm0c/8AhMTaJCF5s+LZY4=
+			t18mpQUaFLY0R8lAf1EYWbWFy0lgXGFCZ5VHgS7b+Xk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -407,15 +407,7 @@ SWIFT_CLASS("_TtC21HarishFrameworkSwift35Toast")
 @end
 
 
-@interface UILabel (SWIFT_EXTENSION(HarishFrameworkSwift3))
-@end
-
-
 @interface UITextField (SWIFT_EXTENSION(HarishFrameworkSwift3))
-@end
-
-
-@interface UIView (SWIFT_EXTENSION(HarishFrameworkSwift3))
 @end
 
 
