@@ -1,0 +1,10 @@
+framework module HarishFrameworkSwift3 {
+  umbrella header "HarishFrameworkSwift3.h"
+
+  export *
+  module * { export * }
+}
+
+module HarishFrameworkSwift3.Swift {
+    header "HarishFrameworkSwift3-Swift.h"
+}
